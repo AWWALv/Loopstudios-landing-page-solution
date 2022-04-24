@@ -48,7 +48,7 @@ header{
     font-size: 2em;
 }
 .nav-list{
-    background-color: rgb(179, 152, 152);
+    background-color: black;
     position: absolute;
     top:12%;
     left:20px;
@@ -286,16 +286,15 @@ header{
     visibility: visible;
     margin: 30px auto 100px auto;
     padding: 10px 40px;
-    background-color: black;
-    color: white;
+    color: black;
     background-color: white;
-    border: 1px solid black;
+    border: 2px solid black;
     transition: all 0.5s ease-in-out;
     
 }
 .see-all-button:hover{
-    background-color: rgb(201, 193, 193);
-    color: black;
+    background-color: black;
+    color: white;
 
 }
 footer{
